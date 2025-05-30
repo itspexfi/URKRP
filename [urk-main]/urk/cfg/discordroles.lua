@@ -110,7 +110,7 @@ for faction_name, faction_roles in pairs(cfg.Guild_Roles) do
 end
 
 
-cfg.Bot_Token = 'MTM3NzQwNTYzMDA2Njg1NjA1OA.GS1Wit.qxDLZ9CKHTIGOtDbZYUqRcrZU-3vBI_CHnYiOg'
+cfg.Bot_Token = 
 cfg.Debug = true -- Enable debug logging
 
 return cfg
