@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+	"@citizenfx/protobufjs": "6.8.8"
+  }
+}
